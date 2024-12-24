@@ -101,5 +101,3 @@ This example will print:
 
 ## License
 
-PyMySQL is released under the MIT License. See LICENSE for more
-information.
